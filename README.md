@@ -2,9 +2,8 @@
 - 👀 I’m interested in Cyber security
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me 
 - 😄 Pronouns: He / Him
-- ⚡ Fun fact: you
+
 
 <!---
 Will19-svg/Will19-svg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
